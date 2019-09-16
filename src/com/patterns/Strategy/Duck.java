@@ -1,4 +1,4 @@
-package com.company.Strategy;
+package com.patterns.Strategy;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;    // protected variables (all subclasses in the same package inherit these)
